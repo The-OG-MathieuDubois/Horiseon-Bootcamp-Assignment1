@@ -12,7 +12,7 @@ The second image shows the page you'll get brought to if you click one the the l
 ***
 ![Screen Shot 2022-11-24 at 6 03 39 PM (2)](https://user-images.githubusercontent.com/117485251/203873115-74f9fa69-2016-44ce-be58-a3b6f4720cbb.png)
 
-Deployed website URL: 
+Deployed website URL: https://the-og-mathieudubois.github.io/Horiseon-Bootcamp-Assignment1/
 ***
 
 ## License
